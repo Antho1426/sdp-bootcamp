@@ -6,5 +6,5 @@ Bootcam Android app to get started with Android in the frame of the CS-306 Softw
 - "Hello, world!" app
 - UI and Unit tests
 - GitHub features
-- Continuous integration with Cirrus CI
+- Continuous integration with Cirrus CI and Code Climate
 - Scrum development process
