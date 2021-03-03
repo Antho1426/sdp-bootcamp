@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bootcamp</string>
+    <string name="please_enter_name">Please enter your name below:</string>
+    <string name="greeting">greeting...</string>
+</resources>
